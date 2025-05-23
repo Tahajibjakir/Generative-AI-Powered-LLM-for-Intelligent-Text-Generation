@@ -11,11 +11,17 @@ It serves as a lightweight and modular framework for quick prototyping of LLM-ba
 ## Features
 
 • Access to pre-trained LLMs (e.g., FLAN-T5) from Hugging Face via API
+
 • LangChain integration to create prompt templates and chains
+
 • Easy prompt injection using PromptTemplate and LLMChain
+
 • Fully configurable with any supported Hugging Face model
+
 • No local model hosting required — models are fetched via Hugging Face Hub
+
 • Clean, minimal, and reusable LangChain + HuggingFaceHub template
+
 • Suitable for question-answering, summarization, instruction-following, and more
 
 
